@@ -10,6 +10,7 @@ Solve programming class exercises for student access
 <details>
     <summary>list of exercises</summary>
     <br>
-    <p>1 -</p>
+    <p>1 - Algorithm and Flowchart - Series 1</p>
+    <p>2 - Algorithm and Flowchart - Series 2</p>
 
   </details>
