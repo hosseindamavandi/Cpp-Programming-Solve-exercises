@@ -26,7 +26,7 @@ Solve programming class exercises for student access
 <details>
     <summary>Series 3</summary>
     <br>
-    <p><b>Variables and mathematical expressions And Structure of the condition:</b></p>
+    <p><b>Variables and mathematical expressions And Structure of the Condition:</b></p>
     <p>Download questions from <a href='https://t.me/Hosein_Damavandi/274'>here</a></p>
     <p>Answers is available <a href='#'>here</a></p>
 </details>
@@ -34,7 +34,7 @@ Solve programming class exercises for student access
 <details>
     <summary>Series 4</summary>
     <br>
-    <p><b>loop structure And arrays:</b></p>
+    <p><b>Loop structure And Arrays:</b></p>
     <p>Download questions from <a href='https://t.me/Hosein_Damavandi/286'>here</a></p>
     <p>Answers is available <a href='#'>here</a></p>
 </details>
