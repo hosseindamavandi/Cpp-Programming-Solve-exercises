@@ -28,7 +28,7 @@ Solve programming class exercises for student access
     <br>
     <p><b>Variables and mathematical expressions And Structure of the Condition:</b></p>
     <p>Download questions from <a href='https://t.me/Hosein_Damavandi/274'>here</a></p>
-    <p>Answers is available <a href='#'>here</a></p>
+    <p>Answers is available <a href='https://github.com/hoseindamavandi/Cpp-Programming-Solve-exercises/tree/main/Series%201'>here</a></p>
 </details>
 
 <details>
