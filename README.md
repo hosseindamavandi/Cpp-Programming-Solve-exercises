@@ -2,8 +2,8 @@
 Solve programming class exercises for student access
 
 **Teacher Assistants:**
-- Hossein Damavandi
-- Kimia Rahimian
+- [Hossein Damavandi](https://github.com/hoseindamavandi)
+- [Kimia Rahimian](https://github.com/kimia-R81)
 
 
 
