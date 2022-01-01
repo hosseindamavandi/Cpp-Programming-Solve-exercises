@@ -36,5 +36,5 @@ Solve programming class exercises for student access
     <br>
     <p><b>Loop structure And Arrays:</b></p>
     <p>Download questions from <a href='https://t.me/Hosein_Damavandi/286'>here</a></p>
-    <p>Answers is available <a href='#'>here</a></p>
+    <p>Answers is available <a href='https://github.com/hoseindamavandi/Cpp-Programming-Solve-exercises/tree/main/Series%204'>here</a></p>
 </details>
