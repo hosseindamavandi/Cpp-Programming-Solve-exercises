@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 int main() {
 
@@ -15,4 +15,4 @@ int main() {
 
 	system("pause>0");
 	return 0;
-}*/
+}
